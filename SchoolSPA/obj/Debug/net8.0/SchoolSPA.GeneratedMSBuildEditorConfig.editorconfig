@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SchoolSPA
+build_property.RootNamespace = SchoolSPA
+build_property.ProjectDir = /Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Pages/AddStudent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRkU3R1ZGVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Pages/Students.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU3R1ZGVudHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Pages/UpdateDelete.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXBkYXRlRGVsZXRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-wxwi9ypv55
+
+[/Users/shalana/Desktop/comp4602/class7/MySchool_inclass/SchoolSPA/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jakje6zt1f
